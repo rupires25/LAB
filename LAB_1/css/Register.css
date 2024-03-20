@@ -1,0 +1,85 @@
+.container{
+    width: 1000px;
+    padding-top: 0px;
+    margin: 0 auto;
+    text-align: center;
+    border: 3px solid black;
+ 
+}
+.Credenciais button{
+    border: 3px solid black;
+    margin-right: 100%;
+    width: 10%;
+}
+
+.dados label{
+    width:100px;
+    white-space:nowrap;
+    display:inline-table;
+}
+
+.navbar{
+    border-bottom: 3px solid black;
+    background-color: rgb(159, 150, 150);
+    padding: 4px;
+}
+
+.navbar h1{
+    font-size: 20px;
+}
+
+.navbar input{
+    border: 3px solid black;
+    width: 65%;
+    margin-right: 10%;
+}
+.arrow{
+    float: left;
+    size: 100%;
+    margin-top: -2%;
+}
+
+i{
+    float: left;
+    margin-top: -2%;
+}
+
+.Credenciais {
+    background-color: white;
+    padding: 12px;
+    block-size: 500px;
+}
+.Credenciais h1{
+    margin-right: 30%;
+    margin-top: 10%;
+}
+
+.dados {
+    background-color:rgb(159, 150, 150);
+    border: 2px solid black;
+    width: 400px;
+    height: 270px;
+    margin-left: 30%;
+    text-align: center;
+}
+
+.dados input{
+    border: 3px outset black;
+    margin-top:5%;
+}
+
+.tacbox{   
+    white-space: nowrap;
+}
+
+.Copyright{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: white;
+    text-align:left;
+}
+
+.final{
+    background-color: rgb(159, 150, 150);
+    text-align: right;
+}

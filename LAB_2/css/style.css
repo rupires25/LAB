@@ -1,0 +1,49 @@
+
+  .container1{
+    margin-left: 25%;
+    
+   }
+    
+    .container2{
+      border: 5px solid black;
+      background-color:  grey;
+      margin-left: 0.3%;
+      margin-right: 40%;
+      display: flex;
+      justify-content: center;
+    }
+    .container3{
+      margin-top: 5%;
+      margin-bottom: 10%;
+     }
+
+     .textoEsquerda{
+        text-align: left;
+      }
+
+    .diretapa{
+      text-align: right;
+    }
+
+      #list1 .form-control:focus {
+        border-color: transparent;
+        box-shadow: none;
+      }
+      #list1 .select-input.form-control[readonly]:not([disabled]) {
+        background-color: #fbfbfb;
+      }
+      
+.Copyright{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: white;
+    text-align:left;
+    position: absolute;
+    bottom: 0.1%;
+    left: 0;
+    right: 0;
+    font-size: 20px;
+}
+
+
+

@@ -1,0 +1,64 @@
+.container{
+    width: 1000px;
+    padding-top: 0px;
+    margin: 0 auto;
+    text-align: center;
+    border: 3px solid black;
+ 
+}
+
+.navbar{
+    border-bottom: 3px solid black;
+    background-color: rgb(159, 150, 150);
+    padding: 4px;
+}
+
+.navbar h1{
+    font-size: 20px;
+}
+
+.navbar input{
+    border: 3px solid black;
+    width: 65%;
+    margin-right: 10%;
+}
+.arrow{
+    float: left;
+    size: 100%;
+    margin-top: -2%;
+}
+
+i{
+    float: left;
+    margin-top: -2%;
+}
+.login{
+    background-color: white;
+    padding: 12px;
+    block-size: 500px;
+}
+
+.Butoes #Login{
+    width: 20%;
+    border: 3px outset black;
+    font-size: 20px;
+}
+
+.Butoes #Register{
+    width: 20%;
+    border: 3px outset black;
+    font-size: 20px;
+}
+
+.Copyright{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    background-color: white;
+    text-align:left;
+}
+
+.final{
+    background-color: rgb(159, 150, 150);
+    text-align: right;
+}
+
